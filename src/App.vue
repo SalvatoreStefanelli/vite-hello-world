@@ -7,4 +7,16 @@
   </header>
 </template>
 
-<style></style>
+<style>
+body {
+  background-color: blue;
+}
+
+header {
+  background-color: orange;
+}
+
+h1 {
+  color: green;
+}
+</style>
